@@ -63,3 +63,5 @@ protected $except = [
 [Abdelouahab Djoudi](https://github.com/djoudi/Laravel-H5P) - Package creator.
 
 [Anass Boutakaoua](https://github.com/soyamore/Laravel-H5P) - Laravel 7 support and base for this package.
+
+[Markus Bartels](https://github.com/MBDevZone/Laravel-H5P) - Laravel 8 support
